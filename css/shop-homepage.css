@@ -1,0 +1,20 @@
+body {
+  padding-top: 56px;
+}
+.bg-colour {
+  background-color: lightseagreen;
+}
+.carousel-item {
+  width: 900px;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.items-img {
+  width: 700px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
